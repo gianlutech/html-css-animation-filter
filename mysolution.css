@@ -33,3 +33,34 @@
     width: 40px;
     height: 40px;
 }
+.ex-6-img{
+    transform: 2s;
+    filter: grayscale(0);
+}
+.ex-6-img:hover{
+    filter: grayscale(100%);
+}
+.ex-7-img{
+    transition: 2s;
+    filter: grayscale(0);
+}
+.ex-7-img:hover{
+    filter: grayscale(100%);
+}
+.ex-8-img{
+    transition: 2s;
+    filter: grayscale(0);
+}
+.ex-8-img:hover{
+    filter: grayscale(100%);
+    border-radius: 50%;
+}
+.ex-9-img{
+    transition: 2s;
+    filter: grayscale(0);
+}
+.ex-9-img:hover{
+    filter: grayscale(100%);
+    border-radius: 50%;
+    width: 600px;
+}
